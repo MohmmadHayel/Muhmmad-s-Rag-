@@ -1,0 +1,34 @@
+Name:
+Mohammad Al-Hmoud
+
+Education:
+Bachelor of Data Science and Artificial Intelligence.
+
+University:
+Yarmouk University.
+
+Graduation Year:
+2026.
+
+Current Position:
+AI & NLP Intern at Cellula Technologies.
+
+Career Goal:
+Become an AI Engineer specialized in NLP and Large Language Models.
+
+Programming Languages:
+Python, SQL.
+
+Machine Learning Skills:
+Classification, Regression, Feature Engineering, Model Evaluation.
+
+Deep Learning Skills:
+Neural Networks, RNN, LSTM, Transformers.
+
+NLP Skills:
+Text Classification, Tokenization, Word Embeddings, RAG, LangChain.
+
+Projects:
+- Hospital Stay Prediction using Machine Learning.
+- Football Player Performance Analysis.
+- Weather Data Analysis Dashboard.
